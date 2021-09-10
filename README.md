@@ -198,6 +198,7 @@ If this card works with your vacuum cleaner, please open a PR and your model to 
 - Xiaomi Mijia 1C
 - Roomba 675
 - Roomba 676
+- Roomba 690
 - Roomba 960
 - Roomba 980
 - Roomba 981
